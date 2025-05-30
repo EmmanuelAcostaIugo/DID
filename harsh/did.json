@@ -6,7 +6,7 @@
   "id": "did:web:emmanuelacostaiugo.github.io:DID:harsh",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkn7XpXzXrTkJmF2d9nxLTcDqkmE6ZwcQdK9BCBKgcEdui",
+      "publicKeyMultibase": "z6MkkJSTmUz5Tir2mSm1WNznkrGJFZXrNtqYh1FSJfeshV7C",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:harsh",
       "id": "did:web:emmanuelacostaiugo.github.io:DID:harsh#key-0",
       "type": "Ed25519VerificationKey2020",
