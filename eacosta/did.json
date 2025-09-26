@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:tomas-alexander.github.io:credenciales:farmer#key-0"
+    "did:web:emmanuelacostaiugo.github.io:DID:eacosta"
   ],
-  "service": [ ],
-  "id": "did:web:tomas-alexander.github.io:credenciales:farmer",
+  "service": [],
+  "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkhzYGmRMBEqY23Hdj8QGdVU3YifvQApBzz2BrTGhWK2aq",
-      "controller": "did:web:tomas-alexander.github.io:credenciales:farmer",
-      "id": "did:web:tomas-alexander.github.io:credenciales:farmer#key-0",
+      "publicKeyMultibase": "z6MkqEB9Re9hhLy7Ze7jG2Jpng3Pye3XkRPzpNCP1GLsJX27",
+      "controller": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta#sXM3p_2ZsqV771tghJ30bZscNE8vHWCu6wgqb0VDJ_c",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -16,8 +16,8 @@
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "alsoKnownAs": [ ],
+  "alsoKnownAs": [],
   "authentication": [
-    "did:web:tomas-alexander.github.io:credenciales:farmer#key-0"
+    "did:web:emmanuelacostaiugo.github.io:DID:eacosta"
   ]
 }
