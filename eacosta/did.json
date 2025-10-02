@@ -1,6 +1,6 @@
 {
   "assertionMethod": [
-    "did:web:emmanuelacostaiugo.github.io:DID:eacosta#key-0"
+    "did:web:emmanuelacostaiugo.github.io:DID:eacosta"
   ],
   "service": [ ],
   "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
