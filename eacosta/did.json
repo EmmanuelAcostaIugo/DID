@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:jainhitesh9998.github.io:tempfiles:vc-local-ed25519"
+    "did:web:emmanuelacostaiugo.github.io:DID:eacosta"
   ],
   "service": [ ],
-  "id": "did:web:jainhitesh9998.github.io:tempfiles:vc-local-ed25519",
+  "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkix4NqHUbmq1qHoVooRaPHuouCvN5KkBV6a8Yj3aAbZRm",
-      "controller": "did:web:jainhitesh9998.github.io:tempfiles:vc-local-ed25519",
-      "id": "did:web:jainhitesh9998.github.io:tempfiles:vc-local-ed25519#Y01feYRR7as-n4Y7TPCVKcwYwTxJb-unBbaAp0o_z4Y",
+      "publicKeyMultibase": "z6MkvQBS9UgpK2N2aTjSVwa56eymxjVLMEmtmLeRxi8LxNbi",
+      "controller": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta#Y01feYRR7as-n4Y7TPCVKcwYwTxJb-unBbaAp0o_z4Y",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [ ],
   "authentication": [
-    "did:web:jainhitesh9998.github.io:tempfiles:vc-local-ed25519"
+    "did:web:emmanuelacostaiugo.github.io:DID:eacosta"
   ]
 }
