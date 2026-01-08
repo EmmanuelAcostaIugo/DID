@@ -6,9 +6,9 @@
   "id": "did:web:emmanuelacostaiugo.github.io:DID:cabana",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkjSUqsow9Gkfrpgh6yaspnLx8xVAdHFmhEf26XSJwMFCm",
+      "publicKeyMultibase": "z6MkkcNLbEJ4YLVWZ4k5Twz2nXgGfCdeBY8SbgE7aP3xTv4x",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:cabana",
-      "id": "did:web:emmanuelacostaiugo.github.io:DID:cabana#wyV0lqT2FBz0j2OjhadMzp5GRkqE4a521QXxgJ1PsBk",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:cabana#eWL6N49cZAP-XoUFx7L5fPooH5l6ai6eSJURlZse9Xw",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
