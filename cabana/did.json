@@ -6,7 +6,7 @@
   "id": "did:web:emmanuelacostaiugo.github.io:DID:cabana",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkohZMuSCDubvGnh7LiSNsHKRAwzvJLk6epkW2pzsnoFfy",
+      "publicKeyMultibase": "z6Mkv31hHbru9vkxjfs7htCwhQdTi6QaGbKF1GmX6m2Mykg7",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:cabana",
       "id": "did:web:emmanuelacostaiugo.github.io:DID:cabana#oNdfNtqXNVk3IUkL1Y5R21Cs4bLqdW0Iq5G0dcGL8cw",
       "type": "Ed25519VerificationKey2020",
