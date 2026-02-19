@@ -6,7 +6,7 @@
   "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MknJVpxLaRPi8JpHahDQH8GyTUeVsPkqs2KKjf24N683qv",
+      "publicKeyMultibase": "z6MksY7wo4uP1shfKyXVUbumZUoHUNGAjf1VyU4uLbed4BXZ",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
       "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta#JDcK-RyTt4v6X5yOX5ur2RFwEruXK8d4qARTzb4Rcfc",
       "type": "Ed25519VerificationKey2020",
