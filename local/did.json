@@ -2,13 +2,13 @@
   "assertionMethod": [
     "did:web:emmanuelacostaiugo.github.io:DID:local"
   ],
-  "service": [],
+  "service": [ ],
   "id": "did:web:emmanuelacostaiugo.github.io:DID:local",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkhez6fZcaHfZzcjpScvafb7SoQ4rjoDtq27uBSZzQZb9W",
+      "publicKeyMultibase": "z6MknxK7TbWSK6E28Upb66Xw9M8U167AbnYBau4BkVpMqADF",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:local",
-      "id": "did:web:emmanuelacostaiugo.github.io:DID:local#3CbJC1nXyv0Z4HhM3gUfaQFgJEnpS1oeshNogvZdqos",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:local#IG3QMOrUXZWamyc9MgFB5FXBIQ62EvrHNgGKxWacuwE",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -16,7 +16,7 @@
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "alsoKnownAs": [],
+  "alsoKnownAs": [ ],
   "authentication": [
     "did:web:emmanuelacostaiugo.github.io:DID:local"
   ]
