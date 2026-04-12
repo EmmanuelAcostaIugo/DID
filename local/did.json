@@ -2,11 +2,11 @@
   "assertionMethod": [
     "did:web:emmanuelacostaiugo.github.io:DID:local"
   ],
-  "service": [],
+  "service": [ ],
   "id": "did:web:emmanuelacostaiugo.github.io:DID:local",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkt6D2oCMQ9zHoe9W9tsMQ1KMHJ26AXK2iwSUztX7ARVrK",
+      "publicKeyMultibase": "z6MkkGZfzPD3YeuaSYoRNaBNNZ87iY36syaanFW7CebSLCWN",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:local",
       "id": "did:web:emmanuelacostaiugo.github.io:DID:local#J6Ew2gvRN_FkLYOoSdY6GxMpVQfKaRYzUV6kBiV3-AQ",
       "type": "Ed25519VerificationKey2020",
@@ -16,7 +16,7 @@
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "alsoKnownAs": [],
+  "alsoKnownAs": [ ],
   "authentication": [
     "did:web:emmanuelacostaiugo.github.io:DID:local"
   ]
