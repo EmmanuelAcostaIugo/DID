@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:emmanuelacostaiugo.github.io:DID:eacosta"
+    "did:web:emmanuelacostaiugo.github.io:DID:prod"
   ],
   "service": [ ],
-  "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
+  "id": "did:web:emmanuelacostaiugo.github.io:DID:prod",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkuSJUEG7jiGQ7AAgNaKochfwTgHD4aEdmag8FCJWbJjr4",
-      "controller": "did:web:emmanuelacostaiugo.github.io:DID:eacosta",
-      "id": "did:web:emmanuelacostaiugo.github.io:DID:eacosta#4c-pDqZLyBpFyeCuFAgTMzXS24fQgbvza4TasBPKHlQ",
+      "publicKeyMultibase": "z6MkhVmEadXna5fErCjhEXVyBcABdu3xpzgEeCTH4p4UhYhd",
+      "controller": "did:web:emmanuelacostaiugo.github.io:DID:prod",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:prod#QWyP65q3z6xPjmJ8wa5gVugWA7Zi_rd207aaWEZHep4",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [ ],
   "authentication": [
-    "did:web:emmanuelacostaiugo.github.io:DID:eacosta"
+    "did:web:emmanuelacostaiugo.github.io:DID:prod"
   ]
 }
