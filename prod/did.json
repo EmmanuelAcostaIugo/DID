@@ -6,9 +6,9 @@
   "id": "did:web:emmanuelacostaiugo.github.io:DID:prod",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkumyPhLFqRUZreC6X9yTYrats3RJS1k6H9i2wAKCSUTgi",
+      "publicKeyMultibase": "z6Mko8bqT61KDR2HnY5U36RftNXyb6eUVc2hj1UTc3ryWmgS",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:prod",
-      "id": "did:web:emmanuelacostaiugo.github.io:DID:prod#ep52yo-XMjywLNVdvETEUKgOFiChYmOGG_TmiQLQzqg",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:prod#-6Yc6LmrVDOMtqQsxZQ4rB_b-l5JtyO4EuY9TQFPt7c",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
