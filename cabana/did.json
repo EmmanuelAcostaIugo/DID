@@ -2,11 +2,11 @@
   "assertionMethod": [
     "did:web:emmanuelacostaiugo.github.io:DID:cabana"
   ],
-  "service": [],
+  "service": [ ],
   "id": "did:web:emmanuelacostaiugo.github.io:DID:cabana",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkiowCPAk7x7QwuxkAz6hqjiVVzDfxjYrfnbHwMfzQsVCi",
+      "publicKeyMultibase": "z6Mkh4CfuUuSPzftWoGmZGBwoR2Fx8mhbGhZBkmP3NDikYqz",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:cabana",
       "id": "did:web:emmanuelacostaiugo.github.io:DID:cabana#gbJTII2kvBkVRYraCFSftoZrr2Pe0LwniG8ee1phA9w",
       "type": "Ed25519VerificationKey2020",
@@ -16,7 +16,7 @@
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "alsoKnownAs": [],
+  "alsoKnownAs": [ ],
   "authentication": [
     "did:web:emmanuelacostaiugo.github.io:DID:cabana"
   ]
