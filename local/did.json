@@ -7,8 +7,8 @@
   "verificationMethod": [
     {
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:local",
-      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuvsC6epojuBEThlOoLEH\ncjVPXeA4IYYiYjg2Ju0eA8AHsO3D36kK4MXT5nOnK0t8vcxUh5bzs+fwzbPtqg1Z\n9uA3F1cYlildPqlJcJZjX0Lh5lvlnMYN7ywqqtLIXOt0lM7n7X6+bfuatOl/fXb3\nRhj+J28tqrM5kC5B7Jt77qmhvRSf5oryJ+Mgbm8wt+HAVO3if4WblmvkVuMvznHm\nH2y94oXYRN0mcF+teMgcsc+3qJgw0IDCwCdqGpix1rvbBZJd72FdJMi/Y8rf2l7y\nOuumAdvN8vJmg0kHTBrgX2sR7uuHMuK4Jvhm91sUZ/y2JBVF+31NXBkKIRuz7lap\npQIDAQAB\n-----END PUBLIC KEY-----",
-      "id": "did:web:emmanuelacostaiugo.github.io:DID:local#nkyf84cN3Xooe-m7cbgOVBRzqviXGc0gof3rrwbfat0",
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8AEuFD3K9YxfLfT7aR6o\ntMXzfPz9Cn3AA+xfi7finTbpWhjyP62/YAO2V8mgWv7Gf+cDLIqKzX8lWgdE0OZ2\n5duuuzO9HD59kRvKz5b5BtVpCTB8tr1IpgzYlnLz/QADrb/xjQZc2kzfx02/fLK5\nghzdFFRcj4fpW3JCJQUE9bL6kuyOOMVATE5zFNysw0a+4SiI06xGRtmU/Dz/xAJB\nPtnglROz1+jjSEZ3WoOdn6xI8cEhORekBQtS9hFSvOrfaoQSXKO1rWNvrRyJY0Ne\nWKCZkGw0WlUVpdVGi/smOIknELy4mE1NlN6xzzyI8vg1t6c1A1YGP8IBgrW62Agm\n+QIDAQAB\n-----END PUBLIC KEY-----",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:local#YWzeJeiWQ_YIVPYb8NNhk70cTTO7unWmFjp-9eeyqYM",
       "type": "RsaVerificationKey2018",
       "@context": "https://w3id.org/security/v1"
     }
