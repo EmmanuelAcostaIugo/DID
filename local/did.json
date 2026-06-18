@@ -7,7 +7,7 @@
   "verificationMethod": [
     {
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:local",
-      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtF7pvo0/7qo0O8f+2lME\n0ZJa5YlTyvKukv4oSaa3feVfAoB6xJpLRiLrrXIfaAJr4i35DculihixhNQYUJhr\nCmlIM0jlQL8snjAaj94bXa7wROy4Ae3Tf21GjDhLtOWoSNfLoD0XLkFAD6yB3WC6\ncLbuIRuQws5qXywl0lX2XJqjc01xZ60CUM2d0S5zoa1snjuHia2NIazjS4t0fOGk\nveMxV8iiANv9AVwk1/7n90PfKJxRAL9l/qLMvAc43LswmE/PJtx9FmIctX7t+bfd\n5kxHuv7hP9j8OY0KaYUZ92QHLA1/vJPBcdawY1SvA6IDi981EsCp916S7y6K1JFC\n+wIDAQAB\n-----END PUBLIC KEY-----",
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnyjhvXNJHZzLBaMFufyP\nmMQRshIBfZ4basbBuc4xBHdsSWSj5HUH2MfKFfjz3/6yJLnMQjm4kRmLz3yXBUYc\nhBn1JPaTQWCH1QXEL+oh1BSqn6DCOHoAYOpqHEaS/J6DFY09cHbNW6CEnjT1LJLS\nDN4rBitGrQv/Aw5D9RELoycWLDA3939GlFn90aqp9s4VBdWha7MJUQsV4Tz8hTqt\nzOFiHo7yX5ZfTse1NEofeUNkiLF/5c/7tNxNJQmIDSJDalNno7AJwRhKJCNEd0KV\nR4YCYPkH4H+KYSboC9YQtKktysIOMBA5zfrj5r5XRZbtrdk5izy0z5Qd5e27yK0m\n6wIDAQAB\n-----END PUBLIC KEY-----",
       "id": "did:web:emmanuelacostaiugo.github.io:DID:local#2S7vQwIGYZeCbq6yOd2t2w_sz5APTh355749NB8hSJA",
       "type": "RsaVerificationKey2018",
       "@context": "https://w3id.org/security/v1"
