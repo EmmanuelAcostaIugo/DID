@@ -1,1 +1,23 @@
-
+{
+  "assertionMethod": [
+    "did:web:emmanuelacostaiugo.github.io:DID:hackathon"
+  ],
+  "service": [ ],
+  "id": "did:web:emmanuelacostaiugo.github.io:DID:hackathon",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6Mkn8Ns6QJYymhoNYV9wizXdTQsK6owwL9oyK5gFyj4YDrS",
+      "controller": "did:web:emmanuelacostaiugo.github.io:DID:hackathon",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:hackathon#lAw8SjU6zX2WTIvhobB_kgMJOfrht_qnwXGyF70tM-o",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [ ],
+  "authentication": [
+    "did:web:emmanuelacostaiugo.github.io:DID:hackathon"
+  ]
+}
