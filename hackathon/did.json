@@ -6,7 +6,7 @@
   "id": "did:web:emmanuelacostaiugo.github.io:DID:hackathon",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkmD5zQvdtoFAWpSLpzZvm2YafTrHEsqASiRZMnzqx4fgi",
+      "publicKeyMultibase": "z6MkerSCTgXnc8anM41FZ189YvWDciF6cg7TGCNmTFyLF2F3",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:hackathon",
       "id": "did:web:emmanuelacostaiugo.github.io:DID:hackathon#R-tBgzITi4Z5vLd-Rg1aU7s6T7lCIVlf-KEFeir3Mas",
       "type": "Ed25519VerificationKey2020",
