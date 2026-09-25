@@ -6,9 +6,9 @@
   "id": "did:web:emmanuelacostaiugo.github.io:DID:hackathon",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkerSCTgXnc8anM41FZ189YvWDciF6cg7TGCNmTFyLF2F3",
+      "publicKeyMultibase": "z6MktXfshibBeKb9K9bW8H3HwwVLUjBuarYsgn51YC1jxthR",
       "controller": "did:web:emmanuelacostaiugo.github.io:DID:hackathon",
-      "id": "did:web:emmanuelacostaiugo.github.io:DID:hackathon#R-tBgzITi4Z5vLd-Rg1aU7s6T7lCIVlf-KEFeir3Mas",
+      "id": "did:web:emmanuelacostaiugo.github.io:DID:hackathon#kbkmoVVNxJ6JY4G41IjsoE6teqSDJg2iC7NzfwFe3_c",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
